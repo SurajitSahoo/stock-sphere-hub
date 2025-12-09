@@ -1,0 +1,4 @@
+project_id = "xdfyzwewjznppvveergu"
+
+[functions.predict-stock]
+verify_jwt = false
